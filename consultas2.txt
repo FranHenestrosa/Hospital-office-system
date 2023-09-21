@@ -1,0 +1,15 @@
+1234,Gripe,20220510
+5678,Control rutinario,20220315
+1234,Dolor de cabeza,20220601
+9012,Resfriado,20220420
+32432,Dolor de estomago,20220302
+32324,Fractura,20210703
+5678,Golpe en la pierna,20230507
+4224,dolor de garganta,19122023
+6789,Tos,20230608
+6789,Dolor de ojo,20230709
+6789,dolor de rodilla,20231002
+6789,dolor de cabeza,20220503
+777,tumor,20230908
+353,enanismo,20220405
+1456,dolor de ojo,20230803

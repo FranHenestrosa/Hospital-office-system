@@ -1,0 +1,11 @@
+1234,Ricardo lopez,Osde
+5678,Juan Marco Giordano ,Sancor Salud
+9012,Francisco Henestrosa ,Swiss medical
+32432,Juan Perez,Swiss medical
+32324,Roberto Lopez,Osde
+4224,bautista spagna,osde
+6789,Lucas henes,Osde
+777,carlos menem,swiss medical
+353,tomas sanchez,osde
+999,lio messi,swiss medical
+1456,tomas vandom,osdew
